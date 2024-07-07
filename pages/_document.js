@@ -27,6 +27,10 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
+          {/* Add your custom text here */}
+          <p>
+            Download YouTube and Vimeo thumbnail images of all quality for free. This application lets you download thumbnails of all quality. Just paste the URL of the thumbnail video in the input below and click "Get Thumbnail Image."
+          </p>
         </body>
       </Html>
     );
